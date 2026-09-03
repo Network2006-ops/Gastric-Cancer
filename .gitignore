@@ -1,0 +1,10 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.slxc
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
